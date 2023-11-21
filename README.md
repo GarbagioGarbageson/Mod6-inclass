@@ -1,8 +1,11 @@
-# Mod6-inclass
-Repository for class activity 6
+# Module 6 In Class
 
-## COLLABORATORS ##
+-Name: Bren Giles
 
+-Date: 11/21/2023
+
+## Collaborators: ##
+- Ethan Lotz
+- Timothy Subroto
 - Meg Prescott
 - Eric Nguyen
-- 
