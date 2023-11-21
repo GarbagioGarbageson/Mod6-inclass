@@ -1,3 +1,3 @@
 //alert("This");
 
-console.log("This is a verry important message!");
+console.log("This is a very important message!");
