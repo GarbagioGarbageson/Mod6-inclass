@@ -5,4 +5,5 @@
 -Date: 11/21/2023
 
 ## Collaborators: ##
+-Ethan Lotz
 -
